@@ -1,0 +1,3 @@
+#ifndef INFORMATION_INDUSTRY_H
+#define INFORMATION_INDUSTRY_H
+#endif
